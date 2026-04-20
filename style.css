@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  margin: 0;
+  text-align: center;
+}
+
+header {
+  background: black;
+  color: white;
+  padding: 15px;
+}
+
+section {
+  padding: 20px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+  body {
+    background: lightgray;
+  }
+}
